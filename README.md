@@ -11,7 +11,7 @@ En la presente propuesta de proyecto se exibira una idea la cual tiene como fin 
 En la ciudad de La Paz actualmente no existe una página web con la que tengas facilidad de comprar cualquier equipo electrónico o computacional y que tengas las diferentes marcas y precios para comparar. Lo mas parecido es el market place o grupos de venta de Facebook, pero estos aún tienen informalidad en nuestro medio. Dada la nueva” normalidad” producida por la pandemia Covid-19, se necesita desarrollar el comercio electrónico en el país, ya que ahora todas las compras se tienen que hacer con el menor contacto posible entre personas. A la vez ayudando a este problema se ofrecerá el servicio de delivery a la puerta del cliente y así cubrir todas las actividades que el cliente tiene que hacer para adquirir un producto. 
 
 
-## Elaboracion del propuesta
+## Elaboracion de propuesta
 Elaborar un plan  de negocio de e-commerde webside mostrando la tienda online facilitando las ventas con una buena conexion con el ususario. asi incrementando los ingresos 
  
 ## Descripcion del Proyecto
