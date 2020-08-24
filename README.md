@@ -23,5 +23,5 @@ navegar por el catálogo de articulos tecnologicos, dado información sobre ello
 ## Descripcion del Proyecto
 El proyecto basicamente trata de hacer un sistema de ventas online de productos computacionales en toda su variedad y realizar la respectiva venta ya sea de equipos armados o la venta de las partes por separado.
 ## Alcance de Proyecto
-el proyecto sera una aplicacion web y no asi una aplicacion movil (.apk), contara con registro y autenticacion de usuarios, altas, bajas, modificaciones de stok, asi mismo de visuaizacion de la pagina sin ningun registro de por medio.
+el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphoneOS. El sistema contara con registro e inicio de sesion de usuarios, tambien contara con altas, bajas y modificaciones de stock. Asi mismo el sistema contara con una visuaizacion de la pagina y los productos sin registro de usuario de por medio. 
 
