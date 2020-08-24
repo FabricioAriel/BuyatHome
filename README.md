@@ -12,7 +12,13 @@ En la ciudad de La Paz actualmente no existe una página web con la que tengas f
 
 
 ## Elaboracion de propuesta
-Elaborar un plan  de negocio de e-commerde webside mostrando la tienda online facilitando las ventas con una buena conexion con el ususario. asi incrementando los ingresos 
+Elaborar el desarrollo de una página web de compra electronica a travez de internet.
+Este website de articulos tecnologicos proporcionará un servicio que facilita, agiliza y simplifica sus procesos de pedidos y compras desde cualquier punto con una conexión a Internet y en cualquier momento. 
+
+Dado que se trabajará con arquitectura cliente/servidor, el software resultante
+del proyecto estará ubicado en un servidor perteneciente a la tienda, al cual se
+accederá vía Internet permitiendo que cualquier usuario pudiera
+navegar por el catálogo de articulos tecnologicos, dado información sobre ellos, facilitando las ventas.
  
 ## Descripcion del Proyecto
 El proyecto basicamente trata de hacer un sistema de ventas online de productos computacionales en toda su variedad y realizar la respectiva venta ya sea de equipos armados o la venta de las partes por separado.
