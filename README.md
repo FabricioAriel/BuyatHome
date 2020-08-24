@@ -5,8 +5,8 @@ Buy-at-Home es una Startup que nace con el fin de ofrecer a la poblacion una alt
 
 Buy-at-Home busca destacar ofreciendo productos a un precio competitivo, para de esta forma guiar a nuestros clientes a tomar la mejor decision de compra, a su vez proporcionando informacion detallada acerca del producto.
 
-El presente documento tiene como objetivo especificar el conjunto general de lineamientos para la implementación de un sitio web para venta de tecnologia computacional enviadas a domicilio.
-En la presente propuesta de proyecto se exibira una idea la cual tiene como fin solucionar una problematica especifica siendo esta la falta de compra de tecnologia haciendo uso del e-commerce website.
+La presente propuesta de requerimientos tiene como objetivo dar a conocer la idea del proyecto a elaborar, los antecedentes que serviran como explicacion para el problema, la propuesta de desarrollo, descripcion del proyecto y alcance del proyecto.
+De esta forma se desea la elaboracion de una aplicación web basada en e-commerce, para la comercializacion de productos electronicos y su distribucion.
 
 # Antecedentes y Problemática
 En la ciudad de La Paz actualmente no existe una página web con la que tengas facilidad de comprar cualquier equipo electrónico o computacional y que tengas las diferentes marcas y precios para comparar. Lo mas parecido es el market place o grupos de venta de Facebook, pero estos aún tienen informalidad en nuestro medio. Dada la nueva” normalidad” producida por la pandemia Covid-19, se necesita desarrollar el comercio electrónico en el país, ya que ahora todas las compras se tienen que hacer con el menor contacto posible entre personas. A la vez ayudando a este problema se ofrecerá el servicio de delivery a la puerta del cliente y así cubrir todas las actividades que el cliente tiene que hacer para adquirir un producto. 
