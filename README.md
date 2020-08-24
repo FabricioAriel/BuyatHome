@@ -1,5 +1,5 @@
 # Request for Proposal Buy At Home
-![alt text](https://drive.google.com/drive/u/2/my-drive)
+
 ## Introduccion
 Buy-at-Home es una Startup que nace con el fin de ofrecer a la poblacion una alternativa para la compra de articulos tecnologicos por medio de una plataforma web, basada en e-commerce.
 
