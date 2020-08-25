@@ -1,5 +1,12 @@
 # Request for Proposal Buy At Home
 
+# Integrantes
+- Miguel Angel Llusco Mamani
+- Fabricio Ariel Crespo Requena
+- Gabrierl Ruben Cordón Santa Cruz 
+- Gael Aracely Condori Tipola
+- Eddie Andre Alba Pando
+
 ## Introduccion
 Buy-at-Home es una Startup que nace con el fin de ofrecer a la poblacion una alternativa para la compra de articulos tecnologicos por medio de una plataforma web, basada en e-commerce.
 
@@ -27,9 +34,4 @@ El proyecto basicamente trata de hacer un sistema de ventas online de productos 
 ## Alcance de Proyecto
 el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphoneOS. El sistema contara con registro e inicio de sesion de usuarios, tambien contara con altas, bajas y modificaciones de stock. Asi mismo el sistema contara con una visuaizacion de la pagina y los productos sin registro de usuario de por medio. 
 
-# Integrantes
-- Miguel Angel Llusco Mamani
-- Fabricio Ariel Crespo Requena
-- Gabrierl Ruben Cordón Santa Cruz 
-- Gael Aracely Condori Tipola
-- Eddie Andre Alba Pando
+
