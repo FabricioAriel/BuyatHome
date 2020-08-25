@@ -16,15 +16,16 @@ La presente propuesta de requerimientos tiene como objetivo dar a conocer la ide
 De esta forma se desea la elaboracion de una aplicación web basada en e-commerce, para la comercializacion de productos electronicos y su distribucion.
 
 ## Antecedentes y Problemática
-En la ciudad de La Paz actualmente no existe una página web con la que tengas facilidad de comprar cualquier equipo electrónico o computacional y que tengas las diferentes marcas y precios para comparar. Lo mas parecido es el market place o grupos de venta de Facebook, pero estos aún tienen informalidad en nuestro medio. Dada la nueva” normalidad” producida por la pandemia Covid-19, se necesita desarrollar el comercio electrónico en el país, ya que ahora todas las compras se tienen que hacer con el menor contacto posible entre personas. A la vez ayudando a este problema se ofrecerá el servicio de delivery a la puerta del cliente y así cubrir todas las actividades que el cliente tiene que hacer para adquirir un producto. 
+En la ciudad de La Paz actualmente no existe una página web con la que se tenga facilidad de comprar cualquier equipo electrónico o sus accesorios y ademas de esto, que tengas las diferentes marcas, descricpción, comparación de cualidades y precios para que se pueda elegir el mas indicado para satisfacer tus necesidades. Lo mas parecido al servicio que ofrecemos es el market place o grupos de ventas en Facebook, pero estos aún tienen informalidad en nuestro medio y en algunos casos son inseguros al momento de hacer las transacciones de dinero. Dada la nueva” normalidad” producida por la pandemia Covid-19, se necesita desarrollar el comercio electrónico y transaccional en el país, ya que ahora todas las compras se tienen que hacer con el menor contacto posible entre personas. A la vez ayudando a este problema se ofrecerá el servicio de delivery a la puerta del cliente y así cubrir todas las actividades que el cliente tiene que hacer para adquirir un producto. 
 
 
 ## Elaboracion de propuesta
 Elaborar el desarrollo de una página web de compra electronica a travez de internet.
 Este website de articulos tecnologicos proporcionará un servicio que facilita, agiliza y simplifica sus procesos de pedidos y compras desde cualquier punto con una conexión a Internet y en cualquier momento. 
 
-Dado que se trabajará con arquitectura cliente/servidor, el software resultante
-del proyecto estará ubicado en un servidor perteneciente a la tienda, al cual se
+La página web permitira al usuario, a partir de los articulos seleccionados pueda hacer la respectiva compra. El usuario a su vez, podra cancelar el pedido. ademas contara con el servicio de delivery si se lo requiere.
+
+Dado que se trabajará con arquitectura cliente/servidor, el software resultante del proyecto estará ubicado en un servidor perteneciente a la tienda, al cual se
 accederá vía Internet permitiendo que cualquier usuario pudiera
 navegar por el catálogo de articulos tecnologicos, dado información sobre ellos, facilitando las ventas.
  
