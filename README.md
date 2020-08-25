@@ -23,10 +23,9 @@ En la ciudad de La Paz actualmente no existe una página web con la que tengas f
 Elaborar el desarrollo de una página web de compra electronica a travez de internet.
 Este website de articulos tecnologicos proporcionará un servicio que facilita, agiliza y simplifica sus procesos de pedidos y compras desde cualquier punto con una conexión a Internet y en cualquier momento. 
 
-La página web permitira al usuario, a partir de los articulos seleccionados pueda hacer la respecrtiva compra. el usuario a su vez, podra cancelar el pedido. ademas contara con el servicio de delivery.
+La página web permitira al usuario, a partir de los articulos seleccionados pueda hacer la respectiva compra. El usuario a su vez, podra cancelar el pedido. ademas contara con el servicio de delivery si se lo requiere.
 
-Dado que se trabajará con arquitectura cliente/servidor, el software resultante
-del proyecto estará ubicado en un servidor perteneciente a la tienda, al cual se
+Dado que se trabajará con arquitectura cliente/servidor, el software resultante del proyecto estará ubicado en un servidor perteneciente a la tienda, al cual se
 accederá vía Internet permitiendo que cualquier usuario pudiera
 navegar por el catálogo de articulos tecnologicos, dado información sobre ellos, facilitando las ventas.
  
