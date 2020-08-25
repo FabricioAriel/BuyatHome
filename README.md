@@ -3,12 +3,12 @@
 # Integrantes
 - Miguel Angel Llusco Mamani
 - Fabricio Ariel Crespo Requena
-- Gabrierl Ruben Cordón Santa Cruz 
+- Gabriel Ruben Cordón Santa Cruz 
 - Gael Aracely Condori Tipola
 - Eddie Andre Alba Pando
 
 ## Introduccion
-Buy-at-Home es una Startup que nace con el fin de ofrecer a la poblacion una alternativa para la compra de articulos tecnologicos por medio de una plataforma web, basada en e-commerce.
+Buy-at-Home es una Startup que nace con el fin de ofrecer a la poblacion una alternativa para la compra de articulos tecnologicos por medio de una plataforma web, basada en e-commerce. Ademas de contar con una tienda fisica.
 
 Buy-at-Home busca destacar ofreciendo productos a un precio competitivo, para de esta forma guiar a nuestros clientes a tomar la mejor decision de compra, a su vez proporcionando informacion detallada acerca del producto.
 
