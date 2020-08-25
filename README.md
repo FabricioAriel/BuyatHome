@@ -28,6 +28,8 @@ La página web permitira al usuario, a partir de los articulos seleccionados pue
 Dado que se trabajará con arquitectura cliente/servidor, el software resultante del proyecto estará ubicado en un servidor perteneciente a la tienda, al cual se
 accederá vía Internet permitiendo que cualquier usuario pudiera
 navegar por el catálogo de articulos tecnologicos, dado información sobre ellos, facilitando las ventas.
+
+[](https://uvm.cdn-capital.digital/img/2019/07/medidas-de-seguridad-para-comprar-en-l%C3%ADnea.jpg)
  
 ## Descripcion del Proyecto
 El proyecto basicamente trata de hacer un sistema de ventas online de productos tecnlogicos en toda su variedad y realizar la respectiva venta ya sea de equipos armados o la venta de las partes por separado ademas que se deberia incrementar las ventas y de esta manera incrementar la utilidad, tambien el hacer la distribucion de los productos via delivey, ademas no se planea cerrar el loca fisico actualmente abierto para la atencion al cliente y posibles cambio o reparaciones pero se planea entrenar al personal contratado (con una edad entre los 35 y 45 anios) para que puedan utilizar el sistema para operar la venta y distribucion del mismo.
