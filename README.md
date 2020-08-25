@@ -22,12 +22,8 @@ accederá vía Internet permitiendo que cualquier usuario pudiera
 navegar por el catálogo de articulos tecnologicos, dado información sobre ellos, facilitando las ventas.
  
 ## Descripcion del Proyecto
-<<<<<<< HEAD
-El proyecto basicamente trata de hacer un sistema de ventas online de productos tecnologicos en toda su variedad y realizar la respectiva venta ya sea de equipos armados o la venta de las partes por separado,otorgar el soporte en linea durante 8 hrs previa cita o llamada el soporte seria personalizado, ademas que se deberia incrementar las ventas y de esta manera incrementar la utilidad, tambien el hacer la distribucion de los productos via delivey, ademas no se planea cerrar el loca fisico actualmente abierto para la atencion al cliente y posibles cambio o reparaciones pero se planea entrenar al personal contratado (con una edad entre los 35 y 45 anios) para que puedan utilizar el sistema para operar la venta y distribucion del mismo.
-=======
-El proyecto basicamente trata de hacer un sistema de ventas online de productos computacionales en toda su variedad y realizar la respectiva venta ya sea de equipos armados o la venta de las partes por separado ademas que se deberia incrementar las ventas y de esta manera incrementar la utilidad, tambien el hacer la distribucion de los productos via delivey, ademas no se planea cerrar el loca fisico actualmente abierto para la atencion al cliente y posibles cambio o reparaciones pero se planea entrenar al personal contratado (con una edad entre los 35 y 45 anios) para que puedan utilizar el sistema para operar la venta y distribucion del mismo.
+El proyecto basicamente trata de hacer un sistema de ventas online de productos tecnlogicos en toda su variedad y realizar la respectiva venta ya sea de equipos armados o la venta de las partes por separado ademas que se deberia incrementar las ventas y de esta manera incrementar la utilidad, tambien el hacer la distribucion de los productos via delivey, ademas no se planea cerrar el loca fisico actualmente abierto para la atencion al cliente y posibles cambio o reparaciones pero se planea entrenar al personal contratado (con una edad entre los 35 y 45 anios) para que puedan utilizar el sistema para operar la venta y distribucion del mismo.
 
->>>>>>> 09ad0df845f76d81a0afb907b85d3fa61e25aa54
 ## Alcance de Proyecto
 el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphoneOS. El sistema contara con registro e inicio de sesion de usuarios, tambien contara con altas, bajas y modificaciones de stock. Asi mismo el sistema contara con una visuaizacion de la pagina y los productos sin registro de usuario de por medio. 
 
