@@ -37,4 +37,15 @@ El proyecto basicamente trata de hacer un sistema de ventas online de productos 
 ## Alcance de Proyecto
 el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphoneOS. El sistema contara con registro e inicio de sesion de usuarios, tambien contara con altas, bajas y modificaciones de stock. Asi mismo el sistema contara con una visuaizacion de la pagina y los productos sin registro de usuario de por medio. 
 
+## Business Value
+El valor de negocio de nuestro proyecto se medira de acuerdo a los siguientes puntos:
 
+Elementos tangibles:
+- Infraestructura
+- Capital
+- Valor de IS
+
+Elementos Intangibles:
+- Prestigio
+- Reconociemto de las principales marcas de equipos electronicos en Bolivia
+-
