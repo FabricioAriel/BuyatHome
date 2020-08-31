@@ -45,17 +45,18 @@ Business:
 - Incrementar la cantidad de pedidos repetidos por los clientes despues de 6 meses realizado el pedido
 Usuarios:
 - Agregar cuentas de usuarios para el consumidor
+- Agregar direcciones de entrega
 - Visualizar el estado de carrito de compras
 - Realizar nuevos pedidos
 - Visualizar historial de pedidos
 - Comprobar el estado del pedido
 Requerimientos funcionales:
-- Mostrar el del usuario como link al menu de configuracion
+- Mostrar el nombre del usuario como link al menu de configuracion
 - Visualizar pedidos por fecha de realizacion
 - Repetir pedidos previos
 - Modificar la cantidad de un producto en la pantalla del carrito de compras
 - Eliminar un producto en la pantalla del carrito de compras
-- 
+- Modificar direcciones de entrega
 Requerimeintos no funcionales:
 - Habilitar la aplicacion para 200 usuarios concurrentes
 - Limitar el uso de caracteres especiales en la creacion del nombre de usuario a solamente caracteres alfabeticos
