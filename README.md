@@ -88,3 +88,14 @@ Elementos Intangibles:
 
 ## Business Need
 La razon que impulsa el proyecto es que las personas debido a esta pandemia se acostumbraron a hacer las compras por internet y recibir el producto por delivery,tambien fue para brindar mas comodidad al cliente utilizando las nuevas tecnologias que existen hoy en dia tambien de uuna forma dar a conocer el negocio en todo el mercado nacional sin necesidad de abrir una tienda fisica en los demas departamentos.
+
+## Special Issues
+Ofrecer el servicio de la Tienda Virtual sólo contempla productos, articulos tecnologicos,las distancias abarcan toda La paz e ir extendiendose a todos los departamentos, no así el extranjero. La Tienda Virtual incluye productos tecnológicos en PCs de escritorio y Laptops,etc. En varias marcas: Sony Vaio,
+Dell, HP y Toshiba,etc
+
+La única forma de envió será a través el método “Por peso, código. La distribucion de los productos via delivery si el usuario lo requiere, en cambio la forma de pago será: la primera mediante transferencia bancaria por tarjeta o en efectivo cual el usuario cancela su deuda por el o los productos al momento que los recibe en su domicilio.
+
+La aplicación está orientada a satisfacer únicamente las necesidades de la plataforma de comercio
+electrónico
+
+La determinación de los requerimientos del sistema, se realizara en Angular
