@@ -39,13 +39,11 @@ el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphone
 
 ## Business Value
 El valor de negocio de nuestro proyecto se medira de acuerdo a los siguientes puntos:
-
 Elementos tangibles:
-- Infraestructura
-- Capital
-- Valor de IS
-
+- Infraestructura.
+- Capital.
+- Valor de IS.
 Elementos Intangibles:
-- Prestigio
-- Reconociemto de las principales marcas de equipos electronicos en Bolivia
--
+- Prestigio.
+- Reconociemto de las principales marcas de equipos electronicos en Bolivia.
+
