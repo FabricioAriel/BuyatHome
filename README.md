@@ -96,7 +96,6 @@ Dell, HP y Toshiba,etc
 
 La única forma de envió será a través el método de peso y código. La distribucion de los productos via delivery si el usuario lo requiere. La forma de pago será mediante pagos por tarjetas o en efectivo el cual el usuario cancela su deuda por el o los productos al momento que los recibe en su domicilio.
 
-La aplicación está orientada a satisfacer únicamente las necesidades de la plataforma de comercio
-electrónico
+La aplicación está orientada a satisfacer únicamente las necesidades de la plataforma de comercio electrónico.
 
-La determinación de los requerimientos del sistema, se realizara en Angular
+
