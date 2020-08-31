@@ -39,7 +39,7 @@ el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphone
 
 
 ## Project Sponsor
-El Project Sponsor de nuestra empresa seremos nosotros y nuestros familiares en primera instancia, ya que para el presente proyecto no necesitaremos una inversión fuerte como para solicitar al banco un préstamo o inversionistas grandes. Nosotros pensamos comenzar siendo una tienda online y tener nuestros productos en comisión. En un futuro siendo una empresa reconocida de E-COMMERCE ya compraríamos nuestros productos para ponerlos a la venta en la tienda física y online, en ese caso necesitaríamos más inversionistas o que nuestros inversionistas iniciales nos proporcionen más capital.
+El Project Sponsor de nuestra empresa sera el lic. Javier Hinojosa ya que es una persona que tiene una buena experiencia en el ambito de los negocio, fue director de la camra de comercio, ya que para el presente proyecto no necesitaremos una inversión fuerte, pero si la experiencia de una persona como el, ya que nos puede guiar en el principio de este nuevo emprendimiento. Nosotros pensamos comenzar siendo una tienda online al igual que tener una tienda fisica. En un futuro siendo una empresa reconocida de E-COMMERCE nos podriamos expandir en el mercado, poner nuevas tiendas y adquirir variedad de productos, en ese caso necesitaríamos más inversionistas o que nuestros inversionistas iniciales nos proporcionen un mayor capital.
 
 ## Business Requirements
 Los requerimientos se indicaran en los siguientes puntos:
