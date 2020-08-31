@@ -39,8 +39,10 @@ el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphone
 
 ## Business Requirements
 Los requerimientos se indicaran en los siguientes puntos:
+
 Business:
-- 
+- Aumentar las ventas de productos en 25% en el primer cuarto del año despues de la emplementacion
+- Incrementar la cantidad de pedidos repetidos por los clientes despues de 6 meses realizado el pedido
 Usuarios:
 - Agregar cuentas de usuarios para el consumidor
 - Visualizar el estado de carrito de compras
@@ -60,6 +62,7 @@ Requerimeintos no funcionales:
 - Requerir que la contraseña contenga minimo 8 caracteres, 1 caracter alfabetico y 1 caracter especial
 Implementacion:
 - La aplicacion debe funcionar en los principales navegadores web
+- Los usuarios deben confirmar la mayoria de edad (18 años) antes de realizar un pedido en la aplicacion
 ## Business Value
 El valor de negocio de nuestro proyecto se medira de acuerdo a los siguientes puntos:
 
