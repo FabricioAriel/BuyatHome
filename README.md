@@ -37,6 +37,8 @@ El proyecto basicamente trata de hacer un sistema de ventas online de productos 
 ## Alcance de Proyecto
 el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphoneOS. El sistema contara con registro e inicio de sesion de usuarios, tambien contara con altas, bajas y modificaciones de stock. Asi mismo el sistema contara con una visuaizacion de la pagina y los productos sin registro de usuario de por medio. 
 
+## Project Sponsor
+El Project Sponsor de nuestra empresa seremos nosotros y nuestros familiares en primera instancia, ya que para el presente proyecto no necesitaremos una inversión fuerte como para solicitar al banco un préstamo o inversionistas grandes. Nosotros pensamos comenzar siendo una tienda online y tener nuestros productos en comisión. En un futuro siendo una empresa reconocida de E-COMMERCE ya compraríamos nuestros productos para ponerlos a la venta en la tienda física y online, en ese caso necesitaríamos más inversionistas o que nuestros inversionistas iniciales nos proporcionen más capital.
 ## Business Value
 El valor de negocio de nuestro proyecto se medira de acuerdo a los siguientes puntos:
 
