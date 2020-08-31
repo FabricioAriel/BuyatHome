@@ -37,8 +37,47 @@ El proyecto basicamente trata de hacer un sistema de ventas online de productos 
 ## Alcance de Proyecto
 el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphoneOS. El sistema contara con registro e inicio de sesion de usuarios, tambien contara con altas, bajas y modificaciones de stock. Asi mismo el sistema contara con una visuaizacion de la pagina y los productos sin registro de usuario de por medio. 
 
+<<<<<<< HEAD
 ## Project Sponsor
 El Project Sponsor de nuestra empresa seremos nosotros y nuestros familiares en primera instancia, ya que para el presente proyecto no necesitaremos una inversión fuerte como para solicitar al banco un préstamo o inversionistas grandes. Nosotros pensamos comenzar siendo una tienda online y tener nuestros productos en comisión. En un futuro siendo una empresa reconocida de E-COMMERCE ya compraríamos nuestros productos para ponerlos a la venta en la tienda física y online, en ese caso necesitaríamos más inversionistas o que nuestros inversionistas iniciales nos proporcionen más capital.
+=======
+## Business Requirements
+Los requerimientos se indicaran en los siguientes puntos:
+
+Business:
+- Aumentar las ventas de productos en 25% en el primer cuarto del año despues de la emplementacion
+- Incrementar la cantidad de pedidos repetidos por los clientes despues de 6 meses realizado el pedido
+
+Usuarios:
+- Agregar cuentas de usuarios para el consumidor
+- Agregar direcciones de entrega
+- Visualizar el estado de carrito de compras
+- Realizar nuevos pedidos
+- Visualizar historial de pedidos
+- Comprobar el estado del pedido
+
+Requerimientos funcionales:
+- Mostrar el nombre del usuario como link al menu de configuracion
+- Visualizar pedidos por fecha de realizacion
+- Repetir pedidos previos
+- Modificar la cantidad de un producto en la pantalla del carrito de compras
+- Eliminar un producto en la pantalla del carrito de compras
+- Modificar direcciones de entrega
+- Cancelar pedidos
+
+Requerimeintos no funcionales:
+- Habilitar la aplicacion para 200 usuarios concurrentes
+- Limitar el uso de caracteres especiales en la creacion del nombre de usuario a solamente caracteres alfabeticos
+- Requerir que la contraseña contenga minimo 8 caracteres, 1 caracter alfabetico y 1 caracter especial
+- Enviar una confirmacion de recepcion del pedido por parte de la tienda
+- Enviar una confiramcion de la salida del pedido de la tienda
+- La cancelacion del pedido debe realizarce antes de que el pedido salga de la tienda 
+
+Implementacion:
+- La aplicacion debe funcionar en los principales navegadores web
+- Los usuarios deben confirmar la mayoria de edad (18 años) antes de realizar un pedido en la aplicacion
+
+>>>>>>> 503d98ff62c7b6b90812e2f06f49124067d95d47
 ## Business Value
 El valor de negocio de nuestro proyecto se medira de acuerdo a los siguientes puntos:
 
