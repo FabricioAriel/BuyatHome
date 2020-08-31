@@ -43,6 +43,7 @@ Los requerimientos se indicaran en los siguientes puntos:
 Business:
 - Aumentar las ventas de productos en 25% en el primer cuarto del año despues de la emplementacion
 - Incrementar la cantidad de pedidos repetidos por los clientes despues de 6 meses realizado el pedido
+
 Usuarios:
 - Agregar cuentas de usuarios para el consumidor
 - Agregar direcciones de entrega
@@ -50,6 +51,7 @@ Usuarios:
 - Realizar nuevos pedidos
 - Visualizar historial de pedidos
 - Comprobar el estado del pedido
+
 Requerimientos funcionales:
 - Mostrar el nombre del usuario como link al menu de configuracion
 - Visualizar pedidos por fecha de realizacion
@@ -57,13 +59,20 @@ Requerimientos funcionales:
 - Modificar la cantidad de un producto en la pantalla del carrito de compras
 - Eliminar un producto en la pantalla del carrito de compras
 - Modificar direcciones de entrega
+- Cancelar pedidos
+
 Requerimeintos no funcionales:
 - Habilitar la aplicacion para 200 usuarios concurrentes
 - Limitar el uso de caracteres especiales en la creacion del nombre de usuario a solamente caracteres alfabeticos
 - Requerir que la contraseña contenga minimo 8 caracteres, 1 caracter alfabetico y 1 caracter especial
+- Enviar una confirmacion de recepcion del pedido por parte de la tienda
+- Enviar una confiramcion de la salida del pedido de la tienda
+- La cancelacion del pedido debe realizarce antes de que el pedido salga de la tienda 
+
 Implementacion:
 - La aplicacion debe funcionar en los principales navegadores web
 - Los usuarios deben confirmar la mayoria de edad (18 años) antes de realizar un pedido en la aplicacion
+
 ## Business Value
 El valor de negocio de nuestro proyecto se medira de acuerdo a los siguientes puntos:
 
