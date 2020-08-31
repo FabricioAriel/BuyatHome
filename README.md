@@ -37,6 +37,7 @@ El proyecto basicamente trata de hacer un sistema de ventas online de productos 
 ## Alcance de Proyecto
 el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphoneOS. El sistema contara con registro e inicio de sesion de usuarios, tambien contara con altas, bajas y modificaciones de stock. Asi mismo el sistema contara con una visuaizacion de la pagina y los productos sin registro de usuario de por medio. 
 
+#System Request
 
 ## Project Sponsor
 El Project Sponsor de nuestra empresa sera el lic. Javier Hinojosa ya que es una persona que tiene una buena experiencia en el ambito de los negocio, fue director de la camra de comercio, ya que para el presente proyecto no necesitaremos una inversión fuerte, pero si la experiencia de una persona como el, ya que nos puede guiar en el principio de este nuevo emprendimiento. Nosotros pensamos comenzar siendo una tienda online al igual que tener una tienda fisica. En un futuro siendo una empresa reconocida de E-COMMERCE nos podriamos expandir en el mercado, poner nuevas tiendas y adquirir variedad de productos, en ese caso necesitaríamos más inversionistas o que nuestros inversionistas iniciales nos proporcionen un mayor capital.
@@ -98,4 +99,10 @@ La única forma de envió será a través el método de peso y código. La distr
 
 La aplicación está orientada a satisfacer únicamente las necesidades de la plataforma de comercio electrónico.
 
+#Analisis de Factibilidad (Feasibility Analysis)
 
+##Fatbilidad Tecnica
+
+##Factibilidad Economica
+
+##Factibilidad Organizacional
