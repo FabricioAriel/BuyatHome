@@ -37,6 +37,29 @@ El proyecto basicamente trata de hacer un sistema de ventas online de productos 
 ## Alcance de Proyecto
 el proyecto sera una aplicacion web y no asi una aplicacion movil andriod/iphoneOS. El sistema contara con registro e inicio de sesion de usuarios, tambien contara con altas, bajas y modificaciones de stock. Asi mismo el sistema contara con una visuaizacion de la pagina y los productos sin registro de usuario de por medio. 
 
+## Business Requirements
+Los requerimientos se indicaran en los siguientes puntos:
+Business:
+-
+Usuarios:
+-Agregar cuentas de usuarios para el consumidor
+-Visualizar el estado de carrito de compras
+-Realizar nuevos pedidos
+-Visualizar historial de pedidos
+-Comprobar el estado del pedido
+Requerimientos funcionales:
+-Mostrar el del usuario como link al menu de configuracion
+-Visualizar pedidos por fecha de realizacion
+-Repetir pedidos previos
+-Modificar la cantidad de un producto en la pantalla del carrito de compras
+-Eliminar un producto en la pantalla del carrito de compras
+-
+Requerimeintos no funcionales:
+-Habilitar la aplicacion para 200 usuarios concurrentes
+-Limitar el uso de caracteres especiales en la creacion del nombre de usuario a solamente caracteres alfabeticos
+-Requerir que la contraseña contenga minimo 8 caracteres, 1 caracter alfabetico y 1 caracter especial
+Implementacion:
+-La aplicacion debe funcionar en los principales navegadores web
 ## Business Value
 El valor de negocio de nuestro proyecto se medira de acuerdo a los siguientes puntos:
 
