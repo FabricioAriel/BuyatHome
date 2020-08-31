@@ -89,3 +89,4 @@ Elementos Intangibles:
 
 ## Business Need
 La razon que impulsa el proyecto es que las personas debido a esta pandemia se acostumbraron a hacer las compras por internet y recibir el producto por delivery,tambien fue para brindar mas comodidad al cliente utilizando las nuevas tecnologias que existen hoy en dia tambien de uuna forma dar a conocer el negocio en todo el mercado nacional sin necesidad de abrir una tienda fisica en los demas departamentos.
+
