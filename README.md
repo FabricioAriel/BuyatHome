@@ -99,10 +99,10 @@ La única forma de envió será a través el método de peso y código. La distr
 
 La aplicación está orientada a satisfacer únicamente las necesidades de la plataforma de comercio electrónico.
 
-#Analisis de Factibilidad (Feasibility Analysis)
+# Analisis de Factibilidad (Feasibility Analysis)
 
-##Fatbilidad Tecnica
+## Fatbilidad Tecnica
 
-##Factibilidad Economica
+## Factibilidad Economica
 
-##Factibilidad Organizacional
+## Factibilidad Organizacional
